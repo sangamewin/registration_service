@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="azure" name="Azure">
       <configuration>
-        <option name="dotAzurePath" value="C:\Project\NA_PN_Platform\registration-service\.azure" />
+        <option name="dotAzurePath" value="C:\Project\registration-service\.azure" />
       </configuration>
     </facet>
   </component>

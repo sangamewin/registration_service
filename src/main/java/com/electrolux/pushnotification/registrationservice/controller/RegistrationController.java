@@ -1,3 +1,4 @@
+/*
 package com.electrolux.pushnotification.registrationservice.controller;
 
 
@@ -191,3 +192,4 @@ public class RegistrationController {
     }
 
 }
+*/

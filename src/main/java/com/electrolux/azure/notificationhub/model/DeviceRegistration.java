@@ -1,3 +1,4 @@
+/*
 package com.electrolux.azure.notificationhub.model;
 
 import lombok.Getter;
@@ -15,3 +16,4 @@ public class DeviceRegistration {
         return getPlatform().toString() + ": " + getHandle().toString() +": "+ getUsername().toString();
     }
 }
+*/

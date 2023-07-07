@@ -1,3 +1,4 @@
+/*
 package com.electrolux.azure.notificationhub.model;
 
 import lombok.Getter;
@@ -9,3 +10,4 @@ public class NotificationPayload {
     private String username, message ;
 
 }
+*/

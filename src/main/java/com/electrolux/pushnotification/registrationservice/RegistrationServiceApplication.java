@@ -16,7 +16,7 @@ public class RegistrationServiceApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World! from Azure Service";
+		return "Hello World! from Azure Service!";
 	}
 
 }

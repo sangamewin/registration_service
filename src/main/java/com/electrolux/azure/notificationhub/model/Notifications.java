@@ -1,3 +1,4 @@
+/*
 package com.electrolux.azure.notificationhub.model;
 
 import com.azure.resourcemanager.notificationhubs.fluent.NotificationHubsClient;
@@ -19,3 +20,4 @@ public class Notifications {
         Hub = new NotificationHub("Endpoint=sb://ELXNAPNPlatformSandboxNS.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=FZYvR82I4TJaaz0VZUqVgQzcHJFL+FulalbRey0zdew=", "ELXNAPNPlatformSandboxNH");
     }
 }
+*/
